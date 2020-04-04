@@ -10,8 +10,8 @@ html,body{
 }
 
 @font-face{
-	src:url('../fonts/OpenSans-Light.ttf');
-	font-family: "Open Sans";
+	src:url('../fonts/NewsCycle-Regular.ttf');
+	font-family: "NewsCycle-Regular";
 }
 
 .clear{
@@ -229,7 +229,6 @@ html,body{
 	.container-list{
 		padding:30px 0;
 		width: 40%;
-		float: left;
 		display: inline-block;
 		max-width: 500px;
 		height: auto;
